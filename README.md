@@ -7,3 +7,5 @@ Data Science Portfolio Projects
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
 
 [link to plot 1](https://varcin.github.io/Caglar-Portfolio/results_plot.html)
+
+https://varcin.github.io/Caglar-Portfolio/results_plot.html
