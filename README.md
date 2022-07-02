@@ -12,4 +12,4 @@ https://varcin.github.io/Caglar-Portfolio/results_plot.html
 
 test
 
-{% include results_plot.html %}
+{% include_relative Caglar-Portfolio/results_plot.html %}
