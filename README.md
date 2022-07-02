@@ -11,3 +11,5 @@ Data Science Portfolio Projects
 https://varcin.github.io/Caglar-Portfolio/results_plot.html
 
 test
+
+{% include results_plot.html %}
