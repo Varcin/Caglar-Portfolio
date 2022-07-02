@@ -5,3 +5,5 @@ Data Science Portfolio Projects
 * Forecasted United States energy demand by using XGBoost, Support Vector Machines, and Recursive Linear Regression Model. 
 * Created a cross validation set to compare different models and selected the best performing model.  
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
+
+![](https://github.com/Varcin/Caglar-Portfolio/blob/main/images/results_plot.html)
