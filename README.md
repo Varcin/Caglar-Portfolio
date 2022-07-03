@@ -17,5 +17,7 @@ Data Science Portfolio Projects
 
 ![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png)
 
-# [Project 3: Verizon Customer Churn Survival Analysis](https://github.com/Varcin/Business-Problems/tree/master/014_customer_churn_survival_h2o)
+# [Project 3: Telecom Company Customer Churn Survival Analysis](https://github.com/Varcin/Business-Problems/tree/master/014_customer_churn_survival_h2o)
+* The goal of the project is to understand the reasons of customer churn and immplement retention strategies ([data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)). 
+* Identified important predictors of customer attrition. 
 
