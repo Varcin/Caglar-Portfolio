@@ -12,3 +12,5 @@ https://varcin.github.io/Caglar-Portfolio/results_plot.html
 
 test
 
+![](https://varcin.github.io/Caglar-Portfolio/images/energy_forecast.png)
+
