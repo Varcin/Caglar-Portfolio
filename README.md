@@ -6,16 +6,5 @@ Data Science Portfolio Projects
 * Created a cross validation set to compare different models and selected the best performing model.  
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
 
-[link to plot 1](https://varcin.github.io/Caglar-Portfolio/images/results_plot.html)
-
-https://varcin.github.io/Caglar-Portfolio/results_plot.html
-
-test
-
-![](https://varcin.github.io/Caglar-Portfolio/images/energy_forecast.png)
-
-test 
-
 ![](https://varcin.github.io/Caglar-Portfolio/images/results_plot.png)
-
-test
+*[interactive plot](https://varcin.github.io/Caglar-Portfolio/images/results_plot.html)*
