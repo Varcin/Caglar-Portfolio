@@ -15,5 +15,7 @@ Data Science Portfolio Projects
 * Analyzed conversion rate (people who sign up over people who visited the website) over time. 
 * Calculated confidence interval by bootstapping the sample and did not find enough evidence to update the website. 
 
+![](https://varcin.github.io/Caglar-Portfolio/images/ab_test_conversion_bootstrap.png)
+
 # [Project 3: Verizon Customer Churn Survival Analysis](https://github.com/Varcin/Business-Problems/tree/master/014_customer_churn_survival_h2o)
 
