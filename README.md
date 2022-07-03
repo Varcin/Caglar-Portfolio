@@ -26,5 +26,8 @@ Data Science Portfolio Projects
 
 test
 
+<img src="https://varcin.github.io/Portfolio/images/corr_funel.png" width="48">
+
+test2
 
 <img src=![](https://varcin.github.io/Portfolio/images/corr_funel.png) alt="drawing" width="200"/>
