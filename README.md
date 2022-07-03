@@ -23,7 +23,7 @@ Data Science Portfolio Projects
 * Used Cox Proportional Hazard and Survival Regression models to create survival curves however it performed worse than H2O (auto-machine learning) model when it comes to predicting churn. 
 
 
-<img src="https://varcin.github.io/Portfolio/images/corr_funel_1.png" width="600">
+<!--- <img src="https://varcin.github.io/Portfolio/images/corr_funel_1.png" width="600"> --->
 
 test 
 
