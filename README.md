@@ -19,5 +19,12 @@ Data Science Portfolio Projects
 
 # [Project 3: Telecom Company Customer Churn Survival Analysis](https://github.com/Varcin/Business-Problems/tree/master/014_customer_churn_survival_h2o)
 * The goal of the project is to understand the reasons of customer churn and immplement retention strategies ([kaggle data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)). 
-* Identified important predictors of customer attrition.  
+* Identified important predictors of customer attrition by doing correlation analysis.  
+* Used Cox Proportional Hazard and Survival Regression models to create survival curves however it performed worse than H2O (auto-machine learning) model when it comes to predicting churn. 
 
+<img src="https://varcin.github.io/Portfolio/images/corr_funel.png" alt="drawing" width="200"/>
+
+test
+
+
+<img src=![](https://varcin.github.io/Portfolio/images/corr_funel.png) alt="drawing" width="200"/>
