@@ -22,12 +22,12 @@ Data Science Portfolio Projects
 * Identified important predictors of customer attrition by doing correlation analysis.  
 * Used Cox Proportional Hazard and Survival Regression models to create survival curves however it performed worse than H2O (auto-machine learning) model when it comes to predicting churn. 
 
-<img src="images/corr_funel.png" alt="drawing" width="200"/>
+<img src="images/corr_funel_1.png" alt="drawing" width="200"/>
 
 test
 
-<img src="https://varcin.github.io/Portfolio/images/corr_funel.png" width="48">
+<img src="https://varcin.github.io/Portfolio/images/corr_funel_1.png" width="48">
 
 test2
 
-<img src=![](https://varcin.github.io/Portfolio/images/corr_funel.png) alt="drawing" width="200"/>
+<img src=![](https://varcin.github.io/Portfolio/images/corr_funel_1.png) alt="drawing" width="200"/>
