@@ -25,3 +25,6 @@ Data Science Portfolio Projects
 
 <img src="https://varcin.github.io/Portfolio/images/corr_funel_1.png" width="600">
 
+test 
+
+![](https://varcin.github.io/Portfolio/images/corr_funel_1.png)
