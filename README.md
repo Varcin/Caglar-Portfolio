@@ -6,8 +6,8 @@ Data Science Portfolio Projects
 * Created a cross validation set to compare different models and selected the best performing model.  
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
 
-![](https://varcin.github.io/Caglar-Portfolio/images/results_plot.png)
-<span style="font-size:4em;">*[interactive plot](https://varcin.github.io/Caglar-Portfolio/images/results_plot.html)*</span>
+![](https://varcin.github.io/Portfolio/images/results_plot.png)
+<span style="font-size:4em;">*[interactive plot](https://varcin.github.io/Portfolio/images/results_plot.html)*</span>
 
 # [Project 2: A/B Testing with Google Optimize](https://github.com/Varcin/Business-Problems/tree/master/024_ab_testing_for_website_optimization)
 * The goal of the A/B test was to increase number of email collected through a sign up page by updated the sign up window. 
@@ -15,7 +15,7 @@ Data Science Portfolio Projects
 * Analyzed conversion rate (people who sign up over people who visited the website) over time. 
 * Calculated confidence interval by bootstapping the sample and did not find enough evidence to update the website. 
 
-![](https://varcin.github.io/Caglar-Portfolio/images/ab_test_conversion_bootstrap.png)
+![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png)
 
 # [Project 3: Verizon Customer Churn Survival Analysis](https://github.com/Varcin/Business-Problems/tree/master/014_customer_churn_survival_h2o)
 
