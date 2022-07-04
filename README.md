@@ -7,7 +7,7 @@ Data Science Portfolio Projects
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
 
 ![](https://varcin.github.io/Portfolio/images/energy_forecast.png)
-<span style="font-size:1.5em;">*[interactive plot](https://varcin.github.io/Portfolio/images/energy_forecast.html)*</span>
+<span style="font-size:1.2em;">*[interactive plot](https://varcin.github.io/Portfolio/images/energy_forecast.html)*</span>
 
 # [Project 2: A/B Testing with Google Optimize](https://github.com/Varcin/Business-Problems/tree/master/024_ab_testing_for_website_optimization)
 * The goal of the A/B test was to increase number of emails collected through a sign up page by updated the sign up window. 
