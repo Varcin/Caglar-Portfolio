@@ -25,3 +25,7 @@ Data Science Portfolio Projects
 ![](https://varcin.github.io/Portfolio/images/corr_funel_1.png)
 
 * Used Cox Proportional Hazard and Survival Regression models to create survival curves however it performed worse than H2O (auto-machine learning) model when it comes to predicting churn. 
+
+# Project 4: Detecting Fraudelant Trasactions with Isolation Forest (IF)
+* Isolation foreast is an unsupervised machine learning algoritm that is easily scalable. IF uses random forest algorithm to randomly selects a feature. It randomly splits, separates and classifies the data. The key concept is outliers have fewer splits to isolate in the decision tree. 
+* If randomly selects a single target, therefore it is important to run it multiple times by changing the seed parameter and average the results. 
