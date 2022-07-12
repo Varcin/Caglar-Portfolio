@@ -15,6 +15,11 @@ Data Science Portfolio Projects
 * Analyzed conversion rate (people who sign-up over people who visited the website) over time. 
 * Calculated confidence interval by bootstrapping the sample and did not find enough evidence to update the website. 
 
+<p float="left">
+  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png" width="100" />
+  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png" width="100" />
+</p>
+
 ![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png)
 
 # [Project 3: Telecom Company Customer Churn Survival Analysis](https://github.com/Varcin/Business-Problems/tree/master/014_customer_churn_survival_h2o)
