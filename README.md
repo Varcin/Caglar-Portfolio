@@ -16,8 +16,8 @@ Data Science Portfolio Projects
 * Calculated confidence interval by bootstrapping the sample and did not find enough evidence to update the website. 
 
 <p float="left">
-  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png" width="250" />
-  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png" width="250" />
+  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png" />
+  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png" />
 </p>
 
 ![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png)
