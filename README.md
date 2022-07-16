@@ -16,8 +16,8 @@ Data Science Portfolio Projects
 * Calculated confidence interval by bootstrapping the sample and did not find enough evidence to update the website. 
 
 <p float="left">
-  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png"  width="350" />
-  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png"  width="350" />
+  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png"  width="300" />
+  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png"  width="300" />
 </p>
 
 <!--- ![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png) --->
@@ -33,6 +33,8 @@ Data Science Portfolio Projects
 * Survival curve shows that half of the month-to-month contracts are leaving in the first 50 days. 
 
 ![](https://varcin.github.io/Portfolio/images/014_churn_survical_fit.png)
+
+* The company can analyse more why half of their month-to-month subscribers leave in less than two months to develop strategies to increase contract length. 
 
 # Project 4: Detecting Fraudelant Transactions with Isolation Forest (IF) - In Progress
 * Isolation forest is an unsupervised machine learning algorithm that is easily scalable. IF uses a random forest algorithm to randomly selects a feature. It randomly splits, separates, and classifies the data. The key concept is outliers have fewer splits to isolate in the decision tree. 
