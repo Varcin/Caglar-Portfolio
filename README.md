@@ -13,12 +13,14 @@
 * The goal of the A/B test was to increase the number of emails collected through a sign up page by updating the sign-up window. 
 * Reviewed treatment and control customers and removed leakage.
 * Analyzed conversion rate (people who sign-up over people who visited the website) over time. 
+![](https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png)
 * Calculated confidence interval by bootstrapping the sample and did not find enough evidence to update the website. 
+![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png)
 
-<p float="left">
-  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png"  width="300" />
-  <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png"  width="300" />
-</p>
+<!--- <p float="left"> --->
+<!---   <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png"  width="300" /> --->
+<!---   <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png"  width="300" /> --->
+<!--- </p> --->
 
 <!--- ![](https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png) --->
 
