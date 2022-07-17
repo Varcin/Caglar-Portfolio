@@ -6,7 +6,7 @@
 * Created cross-validation set to compare different models and selected the best performing model for each sector.  
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
 
-<span style="font-size:1.25em;">*[interactive plot](https://varcin.github.io/Portfolio/images/energy_forecast.html)*</span>
+<span style="font-size:1.2em;">*[interactive plot](https://varcin.github.io/Portfolio/images/energy_forecast.html)*</span>
 ![](https://varcin.github.io/Portfolio/images/energy_forecast.png)
 
 # [Project 2: A/B Testing with Google Optimize](https://github.com/Varcin/Business-Problems/tree/master/024_ab_testing_for_website_optimization)
