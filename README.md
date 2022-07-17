@@ -5,16 +5,18 @@
 * Forecasted United States energy demand by using XGBoost, Support Vector Machines, and Recursive Linear Regression Model. 
 * Created cross-validation set to compare different models and selected the best performing model for each sector.  
 * Used historical energy generation data from [EIA](https://www.eia.gov/electricity/data/browser/)
+
 <span style="font-size:1.25em;">*[interactive plot](https://varcin.github.io/Portfolio/images/energy_forecast.html)*</span>
+
 ![](https://varcin.github.io/Portfolio/images/energy_forecast.png)
 
 # [Project 2: A/B Testing with Google Optimize](https://github.com/Varcin/Business-Problems/tree/master/024_ab_testing_for_website_optimization)
 * The goal of the A/B test was to increase the number of emails collected through a sign up page by updating the sign-up window. 
 * Reviewed treatment and control customers and removed leakage.
 * Analyzed conversion rate (people who sign-up over people who visited the website) over time. 
-<img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png" width = "500">
+<img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png" width = "500" height = "200">
 * Calculated confidence interval by bootstrapping the sample and did not find enough evidence to update the website. 
-<img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png" width = "500">
+<img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_bootstrap.png" width = "500" height = "200">
 
 <!--- <p float="left"> --->
 <!---   <img src="https://varcin.github.io/Portfolio/images/ab_test_conversion_overtime.png"  width="300" /> --->
