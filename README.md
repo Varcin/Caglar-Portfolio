@@ -37,7 +37,9 @@ Data Science Portfolio Projects
 * The company can analyse more why half of their month-to-month subscribers leave in less than two months to develop strategies to increase contract length. 
 
 # Project 4: Detecting Fraudelant Transactions with Isolation Forest (IF) - In Progress
+* The dataset contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. ([kaggle data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)). 
 * Isolation forest is an unsupervised machine learning algorithm that is easily scalable. IF uses a random forest algorithm to randomly selects a feature. It randomly splits, separates, and classifies the data. The key concept is outliers have fewer splits to isolate in the decision tree. 
 * IF randomly selects a single target, therefore it is important to run it multiple times by changing the seed parameter and averaging the results. 
+* Since the dataset is highly unbalanced, I measured the accuracy using the Area Under the Precision-Recall Curve (AUPRC) as confusion matrix accuracy is not meaningful for unbalanced classification. 
 * Anomalies (Outliers) are more often than not Fraudulent Transactions. 
 * Isolation Forest did a good job at detecting anomalous behaviour. 
