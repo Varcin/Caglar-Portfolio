@@ -1,5 +1,5 @@
 # Caglar Varcin Portfolio
-Data Science Portfolio Projects
+<!--- Data Science Portfolio Projects --->
 
 # [Project 1: United States Energy Demand Forecasting by Sector](https://github.com/Varcin/Business-Problems/tree/master/054_energy_forecast_xgboost)
 * Forecasted United States energy demand by using XGBoost, Support Vector Machines, and Recursive Linear Regression Model. 
