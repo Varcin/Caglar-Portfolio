@@ -39,3 +39,5 @@ Data Science Portfolio Projects
 # Project 4: Detecting Fraudelant Transactions with Isolation Forest (IF) - In Progress
 * Isolation forest is an unsupervised machine learning algorithm that is easily scalable. IF uses a random forest algorithm to randomly selects a feature. It randomly splits, separates, and classifies the data. The key concept is outliers have fewer splits to isolate in the decision tree. 
 * IF randomly selects a single target, therefore it is important to run it multiple times by changing the seed parameter and averaging the results. 
+* Anomalies (Outliers) are more often than not Fraudulent Transactions. 
+* Isolation Forest did a good job at detecting anomalous behaviour. 
